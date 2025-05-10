@@ -39,14 +39,12 @@ Here's a walkthrough of implemented features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+<!-- https://imgur.com/a/i4VTiQ4-->
+GIF created with imgur
 <!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+https://imgur.com/a/i4VTiQ4
 
-## Notes
+## Notes:
 One challenge was learning how to use JavaScript to add game cards to the page. I had to figure out how to create elements and show them using code instead of writing them by hand in HTML.
 
 It was a bit hard to get the filter buttons to work, like showing only funded or unfunded games. I had to make sure the old games were removed before showing the new ones.
